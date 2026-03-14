@@ -1,4 +1,4 @@
-# Bike Tracker API
+# Bike Tracks API
 
 ## What this is
 FastAPI backend for a bike tracking app with NFC tagging and stolen bike reporting.
@@ -22,7 +22,7 @@ This is one of 3 repos in the project (api / web / mobile).
 
 ## Folder structure (target)
 ```
-bike-tracker-api/
+bike-tracks-api/
 ├── app/
 │   ├── main.py          # FastAPI app entry point
 │   ├── database.py      # DB connection + session
